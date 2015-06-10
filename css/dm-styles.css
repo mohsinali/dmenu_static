@@ -1,0 +1,66 @@
+@charset "utf-8";
+/* CSS Document */
+
+body { font-family: 'Open Sans', sans-serif;}
+h1 { padding:0px; margin:0px}
+h2 { padding:0px; margin:0px}
+h3 { padding:0px; margin:0px}
+.dm-slider { background:url(../images/dm-slider-bg.jpg); min-height:531px; max-height:531px}
+.dm-slider-left { margin-top:150px; margin-left:20px;}
+.dm-slider-left h2{ color:#FFF; text-transform:uppercase;font-weight: 400; font-size:24px;}
+.dm-slider-left h1{ color:#FFF;text-transform:uppercase; font-size:46px; font-weight: 400; margin-top:15px;}
+.dm-slider-left-bullets { margin:0px; padding:0px; margin-top:30px;}
+.dm-slider-left-bullets li{ list-style:none; color:#FFF;text-transform:uppercase; font-size:16px; background:url(../images/dm-slider-left-bullets.png) no-repeat left top; padding-left:20px; margin-bottom:6px;}
+.dm-slider-right { margin-top:225px; float:right;margin-right:50px;}
+.navbar {min-height:70px;}
+.navbar-inverse {border-color:none; background:url(../images/navbar-bg.png);}
+.navbar-nav { margin-top:15px;}
+.navbar-nav a {text-transform:uppercase; font-size:12px; color:#FFF !important; padding-top:8px!important; padding-bottom:8px!important;}
+.navbar-nav a:hover { color:#CCC!important}
+.navbar-nav .btnStyle a{ background-color:#FFF; color:#b92700!important; border-radius: 10px;}
+.navbar-nav .btnStyle a:hover{ background-color:#CCC!important; color:#000!important;}
+
+.dm-ordering-left { margin-top:50px;}
+.dm-ordering-left h2{color:#b92700; text-transform:uppercase;font-weight: 400; font-size:24px;}
+.dm-ordering-left p{color:#535353; font-size:16px; margin-top:20px;}
+
+.dm-ordering-right { margin-top:-150px;}
+
+.dm-offer-section-bg { background:url(../images/dm-offer-section-bg.png); min-height:948px; max-height:948px; margin-top:60px}
+.dm-offer-section { margin-top:70px;}
+.dm-offer-section h2{color:#b92700; text-transform:uppercase;font-weight: 400; font-size:36px; text-align:center}
+.dm-offer-section h3{color:#414141; text-transform:uppercase;font-weight: 400; font-size:24px;text-align:center;margin-top:8px;}
+.dm-offer-section p{color:#414141; font-weight: 400; font-size:14px;text-align:center;  width:80%; margin:10px auto;margin-top:15px;}
+.dm-offer-section-ipad { text-align:center; margin-top:50px;}
+.dm-offer-section-list {text-align:center; margin-top:50px;}
+
+.dm-modes-section { margin-top:60px;}
+.dm-modes-section h2{color:#b92700; text-transform:uppercase;font-weight: 400; font-size:36px; text-align:center;}
+
+.dm-modes-section p{color:#414141; font-weight: 400; font-size:14px;text-align:center;  width:80%; margin:10px auto;margin-top:20px;}
+
+.dm-modes-section-pods { margin-top:50px;}
+.dm-modes-section-pods h2{color:#b92700; text-transform:uppercase;font-weight: 400; font-size:30px; text-align:left}
+.dm-modes-section-pods h3{color:#414141; font-weight: 400; font-size:18px;text-align:left; margin-top:10px;}
+.dm-modes-section-pods p{color:#414141; font-weight: 400; font-size:14px;text-align:left; margin:0px; margin-top:20px;}
+
+
+.dm-contactus-section-bg { background-color:#f4f4f4;  margin-top:100px; padding-top:100px;}
+.dm-contactus-section { background:url(../images/dm-contactus-section-bg.png) no-repeat center;min-height:500px; max-height:500px;}
+.dm-contactus-section h2{color:#b92700; text-transform:uppercase;font-weight: 400; font-size:36px; text-align:center}
+.dm-contactus-section h3{color:#414141; text-transform:uppercase;font-weight: 400; font-size:18px;text-align:center; margin-top:10px;}
+.dm-contactus-section p{color:#414141; font-weight: 400; font-size:14px;text-align:center;  width:80%; margin:10px auto;}
+
+a.contactus-btn{ background-color:#b92700; color:#FFF; padding:15px 30px;border-radius: 10px;}
+
+.dm-pricing-pods  { background-color:#f4f4f4;border-radius: 10px;}
+.dm-pricing-pods  h2{ color:#b92700; font-size:48px; font-weight:200; text-align:center; padding-top:25px;}
+.dm-pricing-pods  h3{ color:#414141; font-size:24px;font-weight:200; text-align:center;padding-bottom:25px;}
+
+.dm-pricing-pods-redline { background-color: #b92700; height:4px;}
+.dm-pricing-pods-list {}
+.dm-pricing-pods-list ul { padding:0px; margin:0px;}
+.dm-pricing-pods-list ul li{ list-style:none; text-align:center; border-bottom:solid 1px #FFF; padding:12px;}
+.dm-pricing-pods-bottom-text { font-size:24px; font-weight:100; padding-top:40px;}
+
+
